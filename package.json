@@ -1,0 +1,23 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "landing page",
+  "source": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olezhka0809/Live-streaming-site-design-.git"
+  },
+  "author": "Garnautan Oleg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olezhka0809/Live-streaming-site-design-/issues"
+  },
+  "homepage": "https://github.com/olezhka0809/Live-streaming-site-design-#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "sass": "^1.79.4"
+  }
+}
