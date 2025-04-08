@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 6005
 76D:\Fronteend\Proiectul 3\node_modules\type-fest\source\iterable-element.d.ts133727733806336125 0
 37D:\Fronteend\Proiectul 3\package.json133885044198299999 0
+=======
+6014
+76D:\Fronteend\Proiectul 3\node_modules\type-fest\source\iterable-element.d.ts133727733806336125 0
+37D:\Fronteend\Proiectul 3\package.json133886041441304390 0
+>>>>>>> header
 68D:\Fronteend\Proiectul 3\node_modules\postcss-value-parser\README.md133727733801747289 0
 91D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\comparedocumentposition.js133727733883339421 0
 73D:\Fronteend\Proiectul 3\node_modules\@parcel\core\test\fixtures\main-mjs133727733901307048 1
@@ -43,6 +49,7 @@
 56D:\Fronteend\Proiectul 3\node_modules\htmlnano\README.md133727733870342717 0
 55D:\Fronteend\Proiectul 3\node_modules\semver\preload.js133727733824403899 0
 54D:\Fronteend\Proiectul 3\node_modules\type-fest\source133727733825155525 1
+<<<<<<< HEAD
 35D:\Fronteend\Proiectul 3\.gitignore133727739210824838 0
 89D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\constraint-validation.js133727733883748346 0
 75D:\Fronteend\Proiectul 3\node_modules\csso\lib\replace\AttributeSelector.js133727733806745084 0
@@ -50,6 +57,18 @@
 31D:\Fronteend\Proiectul 3\assets133727729967687214 1
 59D:\Fronteend\Proiectul 3\node_modules\posthtml\node_modules133727733782572616 1
 70D:\Fronteend\Proiectul 3\node_modules\term-size\vendor\macos\term-size133727733801462897 0
+=======
+35D:\Fronteend\Proiectul 3\.gitignore133886040919646200 0
+89D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\constraint-validation.js133727733883748346 0
+75D:\Fronteend\Proiectul 3\node_modules\csso\lib\replace\AttributeSelector.js133727733806745084 0
+81D:\Fronteend\Proiectul 3\node_modules\csso\lib\restructure\prepare\specificity.js133727733859504574 0
+31D:\Fronteend\Proiectul 3\assets133886041647149720 1
+59D:\Fronteend\Proiectul 3\node_modules\posthtml\node_modules133727733782572616 1
+70D:\Fronteend\Proiectul 3\node_modules\term-size\vendor\macos\term-size133727733801462897 0
+70D:\Fronteend\Proiectul 3\node_modules\source-map-js\lib\source-node.js133727733796151214 0
+95D:\Fronteend\Proiectul 3\node_modules\csso\node_modules\css-tree\lib\syntax\config\generator.js133727733897555060 0
+30D:\Fronteend\Proiectul 3\build133886041740937691 1
+>>>>>>> header
 55D:\Fronteend\Proiectul 3\node_modules\source-map-js\lib133727733803597551 1
 64D:\Fronteend\Proiectul 3\node_modules\@swc\helpers\esm\_throw.js133727733901889720 0
 116D:\Fronteend\Proiectul 3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\IdSelector.js133727733877114191 0
@@ -58,7 +77,11 @@
 89D:\Fronteend\Proiectul 3\node_modules\@swc\helpers\src\_unsupported_iterable_to_array.mjs133727733903773125 0
 58D:\Fronteend\Proiectul 3\node_modules\nullthrows\README.md133727733805323647 0
 94D:\Fronteend\Proiectul 3\node_modules\css-select\node_modules\entities\lib\decode_codepoint.js133727733810850038 0
+<<<<<<< HEAD
 35D:\Fronteend\Proiectul 3\index.html133885007203093688 0
+=======
+35D:\Fronteend\Proiectul 3\index.html133886041249638711 0
+>>>>>>> header
 46D:\Fronteend\Proiectul 3\node_modules\boolbase133727733789386441 1
 60D:\Fronteend\Proiectul 3\node_modules\css-tree\lib\generator133727733900216030 1
 69D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\HU.js133727733906014041 0
@@ -82,7 +105,11 @@
 89D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\requestanimationframe.js133727733912471615 0
 58D:\Fronteend\Proiectul 3\node_modules\svgo\lib\svgo\coa.js133727733809433404 0
 58D:\Fronteend\Proiectul 3\node_modules\@parcel\core\LICENSE133727733860018341 0
+<<<<<<< HEAD
 46D:\Fronteend\Proiectul 3\styles\_importer.scss133882574982155326 0
+=======
+46D:\Fronteend\Proiectul 3\styles\_importer.scss133886037712373518 0
+>>>>>>> header
 69D:\Fronteend\Proiectul 3\node_modules\svgo\plugins\applyTransforms.js133727733838895970 0
 81D:\Fronteend\Proiectul 3\node_modules\cosmiconfig\dist\canUseDynamicImport.js.map133727733806306198 0
 116D:\Fronteend\Proiectul 3\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133727733901357762 1
@@ -95,7 +122,11 @@
 95D:\Fronteend\Proiectul 3\node_modules\csso\node_modules\css-tree\cjs\syntax\node\WhiteSpace.cjs133727733892206691 0
 64D:\Fronteend\Proiectul 3\node_modules\@parcel\graph\src\Graph.js133727733808550561 0
 57D:\Fronteend\Proiectul 3\node_modules\json5\dist\index.js133727733802006627 0
+<<<<<<< HEAD
 31D:\Fronteend\Proiectul 3\styles133729252062168472 1
+=======
+31D:\Fronteend\Proiectul 3\styles133886037712393532 1
+>>>>>>> header
 59D:\Fronteend\Proiectul 3\node_modules\msgpackr\benchmark.md133727733864861291 0
 80D:\Fronteend\Proiectul 3\node_modules\css-select\node_modules\domutils\readme.md133727733870362657 0
 97D:\Fronteend\Proiectul 3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133727733809483274 0
@@ -106,7 +137,11 @@
 98D:\Fronteend\Proiectul 3\node_modules\@swc\helpers\_\_class_private_field_destructure\package.json133727733829822238 0
 101D:\Fronteend\Proiectul 3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.js133727733838816154 0
 67D:\Fronteend\Proiectul 3\node_modules\msgpackr-extract\package.json133727733792568812 0
+<<<<<<< HEAD
 42D:\Fronteend\Proiectul 3\styles\index.scss133882581816800622 0
+=======
+42D:\Fronteend\Proiectul 3\styles\index.scss133886037712393532 0
+>>>>>>> header
 95D:\Fronteend\Proiectul 3\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_get.cjs133727733896301857 0
 88D:\Fronteend\Proiectul 3\node_modules\htmlnano\lib\modules\minifyConditionalComments.cjs133727733806989557 0
 48D:\Fronteend\Proiectul 3\node_modules\color-name133727733795772252 1
@@ -117,17 +152,30 @@
 78D:\Fronteend\Proiectul 3\node_modules\source-map-js\lib\source-map-consumer.js133727733792678548 0
 103D:\Fronteend\Proiectul 3\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\procedure.d.ts133727733865290123 0
 80D:\Fronteend\Proiectul 3\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in133727733885868139 0
+<<<<<<< HEAD
 43D:\Fronteend\Proiectul 3\styles\_basic.scss133729237816411483 0
+=======
+43D:\Fronteend\Proiectul 3\styles\_basic.scss133885994116339927 0
+>>>>>>> header
 66D:\Fronteend\Proiectul 3\node_modules\posthtml-render\package.json133727733799607547 0
 94D:\Fronteend\Proiectul 3\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md133727733865060822 0
 88D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js133727733907064617 0
 59D:\Fronteend\Proiectul 3\node_modules\@swc\helpers\_\_using133727733887568838 1
+<<<<<<< HEAD
 44D:\Fronteend\Proiectul 3\styles\_header.scss133885038357030536 0
 72D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\calc.js133727733872068671 0
 46D:\Fronteend\Proiectul 3\node_modules\entities133727733801622527 1
 44D:\Fronteend\Proiectul 3\styles\_mixins.scss133884256587436679 0
 75D:\Fronteend\Proiectul 3\node_modules\@swc\helpers\src\_read_only_error.mjs133727733903094907 0
 50D:\Fronteend\Proiectul 3\styles\_placeholders.scss133885025377709207 0
+=======
+44D:\Fronteend\Proiectul 3\styles\_header.scss133886040697930239 0
+72D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\calc.js133727733872068671 0
+46D:\Fronteend\Proiectul 3\node_modules\entities133727733801622527 1
+44D:\Fronteend\Proiectul 3\styles\_mixins.scss133885994116729363 0
+75D:\Fronteend\Proiectul 3\node_modules\@swc\helpers\src\_read_only_error.mjs133727733903094907 0
+50D:\Fronteend\Proiectul 3\styles\_placeholders.scss133886040877384050 0
+>>>>>>> header
 92D:\Fronteend\Proiectul 3\node_modules\css-select\node_modules\entities\lib\esm\decode.js.map133727733864756414 0
 69D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\AR.js133727733813814761 0
 94D:\Fronteend\Proiectul 3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133727733799677358 0
@@ -141,7 +189,11 @@
 48D:\Fronteend\Proiectul 3\node_modules\parse-json133727733792913146 1
 63D:\Fronteend\Proiectul 3\node_modules\node-addon-api\LICENSE.md133727733807657814 0
 56D:\Fronteend\Proiectul 3\node_modules\has-flag\readme.md133727733788693165 0
+<<<<<<< HEAD
 47D:\Fronteend\Proiectul 3\styles\_variables.scss133885036656987021 0
+=======
+47D:\Fronteend\Proiectul 3\styles\_variables.scss133886037712383579 0
+>>>>>>> header
 80D:\Fronteend\Proiectul 3\node_modules\posthtml-parser\dist\location-tracker.d.ts133727733802295855 0
 80D:\Fronteend\Proiectul 3\node_modules\entities\lib\generated\decode-data-html.js133727733789995506 0
 69D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\PF.js133727733911793163 0
@@ -307,6 +359,10 @@
 87D:\Fronteend\Proiectul 3\node_modules\ordered-binary\.nyc_output\processinfo\index.json133727733798186138 0
 53D:\Fronteend\Proiectul 3\node_modules\clone\README.md133727733801867004 0
 66D:\Fronteend\Proiectul 3\node_modules\semver\ranges\min-version.js133727733810860020 0
+<<<<<<< HEAD
+=======
+53D:\Fronteend\Proiectul 3\build\index.86a2f9d7.css.map133886041740927536 0
+>>>>>>> header
 55D:\Fronteend\Proiectul 3\node_modules\stable\index.d.ts133727733786474901 0
 57D:\Fronteend\Proiectul 3\node_modules\csso\lib\version.js133727733861953503 0
 82D:\Fronteend\Proiectul 3\node_modules\lmdb\dependencies\v8\v8-fast-api-calls-v16.h133727733884810686 0
@@ -608,6 +664,10 @@
 75D:\Fronteend\Proiectul 3\node_modules\abortcontroller-polyfill\src\utils.js133727733806800065 0
 59D:\Fronteend\Proiectul 3\node_modules\msgpackr\package.json133727733825075744 0
 84D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\devicepixelratio.js133727733901444494 0
+<<<<<<< HEAD
+=======
+51D:\Fronteend\Proiectul 3\build\favicon.8b2e20e5.png133886041730068710 0
+>>>>>>> header
 62D:\Fronteend\Proiectul 3\node_modules\weak-lru-cache\README.md133727733796659946 0
 65D:\Fronteend\Proiectul 3\node_modules\css-tree\lib\utils\clone.js133727733887489053 0
 94D:\Fronteend\Proiectul 3\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts.map133727733842322078 0
@@ -1383,7 +1443,10 @@
 75D:\Fronteend\Proiectul 3\node_modules\@swc\helpers\_\_to_array\package.json133727733884331947 0
 71D:\Fronteend\Proiectul 3\node_modules\source-map-js\lib\mapping-list.js133727733790683687 0
 63D:\Fronteend\Proiectul 3\node_modules\lmdb\dependencies\lz4\lib133727733892356745 1
+<<<<<<< HEAD
 70D:\Fronteend\Proiectul 3\node_modules\source-map-js\lib\source-node.js133727733796151214 0
+=======
+>>>>>>> header
 52D:\Fronteend\Proiectul 3\node_modules\source-map\lib133727733786819498 1
 100D:\Fronteend\Proiectul 3\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\l10n\index.js133727733831077362 0
 66D:\Fronteend\Proiectul 3\node_modules\css-tree\lib\walker\index.js133727733897643099 0
@@ -1454,8 +1517,11 @@
 65D:\Fronteend\Proiectul 3\node_modules\css-tree\cjs\data-patch.cjs133727733806760147 0
 70D:\Fronteend\Proiectul 3\node_modules\css-select\node_modules\entities133727733870472381 1
 62D:\Fronteend\Proiectul 3\node_modules\semver\internal\debug.js133727733805967107 0
+<<<<<<< HEAD
 72D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\flac.js133727733902711098 0
 55D:\Fronteend\Proiectul 3\node_modules\react-refresh\cjs133727733802106366 1
+=======
+>>>>>>> header
 69D:\Fronteend\Proiectul 3\node_modules\@parcel\source-map\package.json133727733809233936 0
 65D:\Fronteend\Proiectul 3\node_modules\semver\internal\lrucache.js133727733808630384 0
 48D:\Fronteend\Proiectul 3\node_modules\sass\types133727733887229743 1
@@ -1616,6 +1682,11 @@
 83D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\css-text-indent.js133727733899919740 0
 81D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\readonly-attr.js133727733912360336 0
 59D:\Fronteend\Proiectul 3\node_modules\readdirp\package.json133727733788807996 0
+<<<<<<< HEAD
+=======
+72D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\flac.js133727733902711098 0
+55D:\Fronteend\Proiectul 3\node_modules\react-refresh\cjs133727733802106366 1
+>>>>>>> header
 78D:\Fronteend\Proiectul 3\node_modules\csso\node_modules\css-tree\cjs\index.cjs133727733871988834 0
 100D:\Fronteend\Proiectul 3\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.js133727733811428505 0
 77D:\Fronteend\Proiectul 3\node_modules\csso\node_modules\mdn-data\package.json133727733851322861 0
@@ -2427,7 +2498,11 @@
 80D:\Fronteend\Proiectul 3\node_modules\@swc\helpers\_\_class_apply_descriptor_set133727733809074369 1
 55D:\Fronteend\Proiectul 3\node_modules\is-glob\README.md133727733798206069 0
 57D:\Fronteend\Proiectul 3\node_modules\is-extglob\index.js133727733793032827 0
+<<<<<<< HEAD
 43D:\Fronteend\Proiectul 3\dist\index.css.map133885038357344855 0
+=======
+43D:\Fronteend\Proiectul 3\dist\index.css.map133886023354393585 0
+>>>>>>> header
 105D:\Fronteend\Proiectul 3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\trace.js133727733892586511 0
 62D:\Fronteend\Proiectul 3\node_modules\css-what\lib\es\parse.js133727733790344569 0
 108D:\Fronteend\Proiectul 3\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeRasterImages.js133727733871879132 0
@@ -2492,12 +2567,21 @@
 99D:\Fronteend\Proiectul 3\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\package.json133727733859818832 0
 50D:\Fronteend\Proiectul 3\node_modules\htmlnano\lib133727733871484874 1
 69D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\DM.js133727733901684461 0
+<<<<<<< HEAD
 102D:\Fronteend\Proiectul 3\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.js.map133727733861160474 0
 57D:\Fronteend\Proiectul 3\node_modules\css-tree\cjs\walker133727733864387388 1
 58D:\Fronteend\Proiectul 3\node_modules\htmlnano\LICENSE.txt133727733882636406 0
 56D:\Fronteend\Proiectul 3\node_modules\fill-range\LICENSE133727733790603905 0
 70D:\Fronteend\Proiectul 3\node_modules\cosmiconfig\dist\ExplorerBase.js133727733796744820 0
 69D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\PK.js133727733911894608 0
+=======
+56D:\Fronteend\Proiectul 3\node_modules\fill-range\LICENSE133727733790603905 0
+70D:\Fronteend\Proiectul 3\node_modules\cosmiconfig\dist\ExplorerBase.js133727733796744820 0
+69D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\PK.js133727733911894608 0
+102D:\Fronteend\Proiectul 3\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.js.map133727733861160474 0
+58D:\Fronteend\Proiectul 3\node_modules\htmlnano\LICENSE.txt133727733882636406 0
+57D:\Fronteend\Proiectul 3\node_modules\css-tree\cjs\walker133727733864387388 1
+>>>>>>> header
 62D:\Fronteend\Proiectul 3\node_modules\htmlnano\lib\helpers.cjs133727733805413415 0
 75D:\Fronteend\Proiectul 3\node_modules\csso\lib\restructure\prepare\index.js133727733838222267 0
 63D:\Fronteend\Proiectul 3\node_modules\@parcel\transformer-babel133727733814243512 1
@@ -3017,7 +3101,10 @@
 87D:\Fronteend\Proiectul 3\node_modules\csso\node_modules\css-tree\lib\syntax\node\Url.js133727733901814423 0
 89D:\Fronteend\Proiectul 3\node_modules\csso\node_modules\css-tree\lib\syntax\node\Value.js133727733901899758 0
 98D:\Fronteend\Proiectul 3\node_modules\csso\node_modules\css-tree\lib\syntax\function\expression.js133727733897433195 0
+<<<<<<< HEAD
 95D:\Fronteend\Proiectul 3\node_modules\csso\node_modules\css-tree\lib\syntax\config\generator.js133727733897555060 0
+=======
+>>>>>>> header
 101D:\Fronteend\Proiectul 3\node_modules\csso\node_modules\css-tree\lib\syntax\config\parser-selector.js133727733900914388 0
 92D:\Fronteend\Proiectul 3\node_modules\csso\node_modules\css-tree\lib\syntax\config\walker.js133727733901972871 0
 62D:\Fronteend\Proiectul 3\node_modules\csso\lib\clean\Atrule.js133727733806156616 0
@@ -3619,6 +3706,10 @@
 89D:\Fronteend\Proiectul 3\node_modules\css-select\node_modules\domutils\lib\esm\feeds.d.ts133727733870452427 0
 91D:\Fronteend\Proiectul 3\node_modules\css-select\node_modules\domutils\lib\esm\feeds.js.map133727733860556885 0
 84D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\wasm-multi-value.js133727733916520396 0
+<<<<<<< HEAD
+=======
+41D:\Fronteend\Proiectul 3\build\index.html133886041740882411 0
+>>>>>>> header
 95D:\Fronteend\Proiectul 3\node_modules\css-select\node_modules\domutils\lib\esm\helpers.d.ts.map133727733861359935 0
 89D:\Fronteend\Proiectul 3\node_modules\css-select\node_modules\domutils\lib\esm\helpers.js133727733821517227 0
 93D:\Fronteend\Proiectul 3\node_modules\css-select\node_modules\domutils\lib\esm\index.d.ts.map133727733862272647 0
@@ -3855,6 +3946,10 @@
 61D:\Fronteend\Proiectul 3\node_modules\chokidar\esm\index.d.ts133727733799378119 0
 59D:\Fronteend\Proiectul 3\node_modules\chokidar\esm\index.js133727733789376482 0
 76D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\fontface.js133727733902994351 0
+<<<<<<< HEAD
+=======
+51D:\Fronteend\Proiectul 3\build\sprites.d0bcf7f3.svg133886027391674282 0
+>>>>>>> header
 77D:\Fronteend\Proiectul 3\node_modules\@parcel\runtime-browser-hmr\lib\loaders133727733805947157 1
 63D:\Fronteend\Proiectul 3\node_modules\chokidar\esm\index.js.map133727733793341993 0
 54D:\Fronteend\Proiectul 3\node_modules\chalk\index.d.ts133727733810860020 0
@@ -3885,8 +3980,13 @@
 76D:\Fronteend\Proiectul 3\node_modules\@parcel\packager-js\src\dev-prelude.js133727733808640365 0
 69D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\AE.js133727733802275910 0
 69D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\AF.js133727733803537745 0
+<<<<<<< HEAD
 69D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\AG.js133727733803962112 0
 61D:\Fronteend\Proiectul 3\node_modules\@parcel\transformer-svg133727733808884891 1
+=======
+61D:\Fronteend\Proiectul 3\node_modules\@parcel\transformer-svg133727733808884891 1
+69D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\AG.js133727733803962112 0
+>>>>>>> header
 69D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\AI.js133727733806889837 0
 69D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\AL.js133727733807059383 0
 73D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\regions\alt-as.js133727733808061868 0
@@ -4304,7 +4404,11 @@
 75D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\history.js133727733905818735 0
 86D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\html-media-capture.js133727733905923010 0
 73D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\http3.js133727733905994077 0
+<<<<<<< HEAD
 39D:\Fronteend\Proiectul 3\dist\index.css133885038357344855 0
+=======
+39D:\Fronteend\Proiectul 3\dist\index.css133886023354393585 0
+>>>>>>> header
 82D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\iframe-sandbox.js133727733906063746 0
 71D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\ime.js133727733906185304 0
 98D:\Fronteend\Proiectul 3\node_modules\caniuse-lite\data\features\img-naturalwidth-naturalheight.js133727733906195283 0
@@ -5607,6 +5711,10 @@
 99D:\Fronteend\Proiectul 3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\package.json133727733896123840 0
 96D:\Fronteend\Proiectul 3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\README.md133727733896418617 0
 97D:\Fronteend\Proiectul 3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common133727733892396647 1
+<<<<<<< HEAD
+=======
+56D:\Fronteend\Proiectul 3\build\pigeon_alpha.86efafa5.png133886041730068710 0
+>>>>>>> header
 86D:\Fronteend\Proiectul 3\node_modules\@parcel\core\test\fixtures\main-mjs\package.json133727733901307048 0
 108D:\Fronteend\Proiectul 3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax133727733895885376 1
 100D:\Fronteend\Proiectul 3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\generator133727733892013328 1
@@ -5952,6 +6060,10 @@
 81D:\Fronteend\Proiectul 3\node_modules\@babel\highlight\node_modules\color-convert133727733831286795 1
 78D:\Fronteend\Proiectul 3\node_modules\@babel\highlight\node_modules\color-name133727733831157139 1
 82D:\Fronteend\Proiectul 3\node_modules\@babel\highlight\node_modules\supports-color133727733829822238 1
+<<<<<<< HEAD
+=======
+48D:\Fronteend\Proiectul 3\assets\pigeon_alpha.png133886001175873111 0
+>>>>>>> header
 91D:\Fronteend\Proiectul 3\node_modules\@babel\highlight\node_modules\supports-color\index.js133727733823266485 0
 90D:\Fronteend\Proiectul 3\node_modules\@babel\highlight\node_modules\supports-color\license133727733824771419 0
 92D:\Fronteend\Proiectul 3\node_modules\@babel\highlight\node_modules\supports-color\readme.md133727733829931923 0
@@ -6001,6 +6113,14 @@
 53D:\Fronteend\Proiectul 3\node_modules\.bin\semver.cmd133727734602226962 0
 51D:\Fronteend\Proiectul 3\node_modules\.bin\svgo.cmd133727734602258677 0
 69D:\Fronteend\Proiectul 3\node_modules\.bin\update-browserslist-db.cmd133727734602248670 0
+<<<<<<< HEAD
 43D:\Fronteend\Proiectul 3\assets\favicon.png133727698599425324 0
 45D:\Fronteend\Proiectul 3\assets\phone-ss.webp133727723945119629 0
 43D:\Fronteend\Proiectul 3\assets\sprites.svg133885018070846864 0
+=======
+49D:\Fronteend\Proiectul 3\build\index.86a2f9d7.css133886041740882411 0
+51D:\Fronteend\Proiectul 3\build\sprites.1c29996f.svg133886041740034630 0
+43D:\Fronteend\Proiectul 3\assets\favicon.png133727698599425324 0
+45D:\Fronteend\Proiectul 3\assets\phone-ss.webp133727723945119629 0
+43D:\Fronteend\Proiectul 3\assets\sprites.svg133886037712314306 0
+>>>>>>> header
