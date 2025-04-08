@@ -11,39 +11,70 @@
     <title>Live streaming site</title>
 </head>
 <body>
-   <header class="header" aria-label="header">
+    <header class="header" aria-label="header">
         <div class="container">
-            <nav class="header_nav  nav" aria-label="header_navigation">
+            <nav class="header__nav nav" aria-label="header navigation">
                 <div class="nav__title">
                     <a href="#" class="nav__title-link">CLOUD <span>FLEX</span></a>
                 </div>
-                <div class="nav_links">
-                    <ul class="nav_link-list" aria-label="header nav nav_links">
-                        <li class="linl_item" aria-label="first link">
-                            <a href="#" class="list-item-link">about</a>
+
+                <div class="nav__links">
+                    <ul class="nav__links-list list" aria-label="header nav links">
+                        <li class="list__item" aria-label="first link">
+                            <a href="#" class="list__item-link">about</a>
                         </li>
-                        <li class="linl_item" aria-label="second link">
-                            <a href="#" class="list-item-link">contact</a>
+                        <li class="list__item" aria-label="second link">
+                            <a href="#" class="list__item-link">contact</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class="nav_covid-wrapper">
-                    <a href="#" class="covid_link" aria-label="covid-19 update">COVID-19 UPDATE</a>
+                <div class="nav__covid-wrapper covid">
+                    <a href="#" class="covid__link" aria-label="covid-19 update">COVID-19 UPDATE</a>
                 </div>
 
-                <div class="nav_globe-wrapper globe" >
-                    <a href="#" class="globe_link" aria-label="globe info">
+                <div class="nav__globe-wrapper globe">
+                    <a href="#" class="globe__link" aria-label="globe info">
                         <svg class="globe__link-icon" aria-label="globe img">
-                            <use href="assets/sprites.svg#earth-icon">
-
-                            </use>
+                            <use href="assets/sprites.svg#earth-icon"></use>
                         </svg>
                     </a>
                 </div>
             </nav>
         </div>
-   </header>
+    </header>
+
+   <main aria-label="main content">
+        <section class="hero-section" aria-label="hero section">
+            <div class="container">
+                <div class="hero">
+                    <div class="hero__content">
+                        <div class="hero__title">
+                            WHEN 
+                            PERFORMANCE
+                            MATTERS
+                        </div>
+                        <button class="hero__action-btn">Start development with us!</button>
+                    </div>
+
+                    <div class="hero__notify">
+                        <img src="assets/pigeon_alpha.png" alt="pigeon img" class="hero__notify-img">
+                        <p class="hero__notify-content">WE USE COOKIES TO ENSURE YOUR BEST EXPERIENCE.
+                            THROUGH YOUR CONTINUED USE OF THIS SITE YOU ACCEPT THIS USE.
+                            FOR MORE INFORMATION, PLEASE SEE OUR PRIVACY POLICY.</p>
+                        <button class="hero__notify-btn">ACCEPT</button>
+                    </div>
+
+                    <div class="hero__scroll">
+                        <span class="hero__scroll-content">
+                            Scroll down
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+   </main>
     
    
 </body>
