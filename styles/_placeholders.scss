@@ -6,3 +6,10 @@
         color: v.$color_black;
     }
 }
+
+%hover-black-item{
+    &:hover{
+        cursor: pointer;
+        fill: v.$color_black;
+    }
+}
