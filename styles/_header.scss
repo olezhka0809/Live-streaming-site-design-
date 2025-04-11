@@ -3,11 +3,13 @@
 @use 'placeholders';
 @use 'sass:color';
 
+
 .header {
     width: 100%;
     height: 50px;
     background-color: color.adjust(v.$color_white, $alpha: -0.85);
     //background-color: v.$color_blue;
+
 
     // border-bottom: 1px solid v.$color_white;
     border: {
@@ -28,18 +30,51 @@
             border-right: 1px solid v.$color_white;
             @include m.d-flex(center, center);
 
+
             &-link {
                 font-size: 25px;
                 font-weight: 500;
                 color: v.$color_white;
-
                 span {
                     font-weight: 700;
                 }
 
+
+                span {
+                    font-weight: 700;
+
+                }
+            }
+            @media (max-width: v.$media_lg) {
+                .list {
+                    @include m.d-flex(center, center, nowrap, row, min(100px, 5vw), 0);
+                    padding: 0 0 0 0;
+                }
+            }
+        }
+        .covid {
+            height: 100%;
+            @include m.d-flex(center, center);
+            padding: 0 30px;
+
+            border: {
+                left: 1px solid v.$color_white;
+                right: 1px solid v.$color_white;
+            }
+
+            &__link {
+
+                font-size: 16px;
+                font-weight: 700;
+                color: v.$color_white;
+
                 @extend %hover-black;
             }
         }
+        .globe {
+            width: 90px;
+            @include m.d-flex(center, center);
+
 
         &__links {
             flex-grow: 1;
@@ -90,6 +125,7 @@
             width: 90px;
             @include m.d-flex(center, center);
 
+
             &__link {
                 &-icon {
                     width: 27px;
@@ -108,3 +144,4 @@
         }
     }
 }
+

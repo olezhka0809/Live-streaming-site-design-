@@ -4,4 +4,7 @@ dist
 public 
 build
 .vscode
+
 .parcel-cache/
+
+
